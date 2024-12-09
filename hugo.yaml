@@ -81,7 +81,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hello \U0001F44B. This site is a work in progess."
-    Content: My name is [Hadley](content/about/). Sometimes, I sell books under the name Book Disorder. Stay tuned for writing about computers, canoe trips, and used books.
+    Content: My name is [Hadley](/about/). Occasionally, I sell books under the name Book Disorder.
 
   socialIcons: 
     - name: instagram
