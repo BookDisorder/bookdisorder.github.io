@@ -20,7 +20,7 @@ Here's a breakdown of the deployment:
 
 ## Transparency
 
-Having the website's code publically available is a double-edge sword. I believe transparency is a good thing, and maybe someone will learn from my setup or even contribute and help me fix something. But, it's also a bit terrifying. Every tweak, every typo fix, every half-baked experiement is permanently recorded in the repository's history. 
+Having the website's code publicly available is a double-edge sword. I believe transparency is a good thing, and maybe someone will learn from my setup or even contribute and help me fix something. But, it's also a bit terrifying. Every tweak, every typo fix, every half-baked experiment is permanently recorded in the repository's history. 
 
 Is GitHub pages the right fit for a personal site?
 
@@ -29,7 +29,7 @@ Is GitHub pages the right fit for a personal site?
 I'm currently working on the Google Cloud Data Analytics Certificate through [Google Cloud Skills Boost](https://www.cloudskillsboost.google/). It's got me thinking: maybe I should move the site to Google Cloud?
 
 Potential advantages:
-- **More control:** I'd have more control over the server enviroment and configurations.
+- **More control:** I'd have more control over the server environment and configurations.
 - **GCP Integration:** I can play around with integrating other Google Cloud services.
 - **Learning:** It would be a good way to reinforce what I'm learning in the Google Cloud Data Analytics Certificate program.
 
