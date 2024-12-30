@@ -3,21 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-12-08T13:38:04-05:00</lastmod>
+    <lastmod>2024-12-30T12:39:10-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/github-pages/</loc>
+    <lastmod>2024-12-30T12:39:10-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/hello-world-part-2/</loc>
+    <lastmod>2024-12-30T12:39:10-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hugo/</loc>
+    <lastmod>2024-12-30T12:39:10-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-12-30T12:39:10-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-12-30T12:39:10-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/computers/</loc>
     <lastmod>2024-12-08T13:38:04-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/hello-world/</loc>
-    <lastmod>2024-12-08T13:38:04-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
-    <lastmod>2024-12-08T13:38:04-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-12-08T13:38:04-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-12-08T13:38:04-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>

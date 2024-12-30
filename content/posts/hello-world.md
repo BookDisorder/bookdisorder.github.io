@@ -2,7 +2,6 @@
 title = 'Hello World, Part 1: Hugo'
 date = 2024-12-08T13:38:04-05:00
 tags = ['Hugo','Computers']
-
 +++
 
 

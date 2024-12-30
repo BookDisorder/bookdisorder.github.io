@@ -11,8 +11,17 @@
     </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Dec 2024 13:38:04 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2024 12:39:10 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World, Part 2: Github Pages</title>
+      <link>http://localhost:1313/posts/hello-world-part-2/</link>
+      <pubDate>Mon, 30 Dec 2024 12:39:10 -0500</pubDate>
+      <guid>http://localhost:1313/posts/hello-world-part-2/</guid>
+      <description>&lt;p&gt;I launched this site three weeks ago, deploying a Hugo build to &lt;a href=&#34;https://pages.github.com/&#34;&gt;Github Pages&lt;/a&gt;. It was a steeper learning curve than I anticipated. Honestly, publishing anything is nerve-wracking - especially knowing every single change is out there for the world to see. I had to actively resist the urge to constantly fiddle with every little detail.&lt;/p&gt;
+&lt;h2 id=&#34;github-pages-deployment&#34;&gt;GitHub Pages Deployment&lt;/h2&gt;
+&lt;p&gt;Getting the site live on GitHub Pages wasn&amp;rsquo;t entirely smooth. I had a simple HTML placeholder page sitting in my repository, which seemed to cause a delay. GitHub took a few minutes to recognize the new Hugo build after I pushed it. Turns out, understanding how GitHub Actions handles caching and updates requires a bit of research.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hello World, Part 1: Hugo</title>
       <link>http://localhost:1313/posts/hello-world/</link>

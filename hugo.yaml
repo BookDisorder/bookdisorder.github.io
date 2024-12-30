@@ -80,7 +80,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hello \U0001F44B. This site is a work in progess."
+    Title: "Hello \U0001F44B "
     Content: My name is [Hadley](/about/). Occasionally, I sell books under the name Book Disorder.
 
   socialIcons: 
@@ -88,6 +88,8 @@ params:
       url: "https://instagram.com/bookdisorderbookdisorder"
     - name: github
       url: "https://github.com/BookDisorder"
+    - name: email
+      url: "mailto:hadley.gitto@gmail.com"
 
   #analytics:
   #  google:

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Hugo on bookdisorder</title>
-    <link>http://localhost:1313/tags/hugo/</link>
-    <description>Recent content in Hugo on bookdisorder</description>
+    <title>Github Pages on bookdisorder</title>
+    <link>http://localhost:1313/tags/github-pages/</link>
+    <description>Recent content in Github Pages on bookdisorder</description>
     <image>
       <title>bookdisorder</title>
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.139.3</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Dec 2024 12:39:10 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/github-pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World, Part 2: Github Pages</title>
       <link>http://localhost:1313/posts/hello-world-part-2/</link>
@@ -21,16 +21,6 @@
       <description>&lt;p&gt;I launched this site three weeks ago, deploying a Hugo build to &lt;a href=&#34;https://pages.github.com/&#34;&gt;Github Pages&lt;/a&gt;. It was a steeper learning curve than I anticipated. Honestly, publishing anything is nerve-wracking - especially knowing every single change is out there for the world to see. I had to actively resist the urge to constantly fiddle with every little detail.&lt;/p&gt;
 &lt;h2 id=&#34;github-pages-deployment&#34;&gt;GitHub Pages Deployment&lt;/h2&gt;
 &lt;p&gt;Getting the site live on GitHub Pages wasn&amp;rsquo;t entirely smooth. I had a simple HTML placeholder page sitting in my repository, which seemed to cause a delay. GitHub took a few minutes to recognize the new Hugo build after I pushed it. Turns out, understanding how GitHub Actions handles caching and updates requires a bit of research.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hello World, Part 1: Hugo</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
-      <pubDate>Sun, 08 Dec 2024 13:38:04 -0500</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>&lt;p&gt;This is it. The inaugural post. I&amp;rsquo;ve been delaying the inevitable for too long. Now, I have a &lt;del&gt;blog&lt;/del&gt; portfolio website.&lt;/p&gt;
-&lt;p&gt;The following is an outline of my process for getting this &lt;del&gt;blog&lt;/del&gt; up and running. So far.&lt;/p&gt;
-&lt;h2 id=&#34;hugo-or-how-i-learned-to-stop-worrying-and-choose-a-static-site-generator&#34;&gt;Hugo or: How I Learned to Stop Worrying and Choose a Static Site Generator&lt;/h2&gt;
-&lt;p&gt;I have no great love for making choices about tools. Even better, I like to hem and haw. I could spend all day reading about ottertail vs. beavertail canoe paddles. And, spend all night researching the most versatile socket wrenches. I&amp;rsquo;ve been paying attention to Static Site Generators for a while. I&amp;rsquo;ve even messed around with a few over the past decade. Locally deploying jekyll. Following Gatsby tutorials.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
