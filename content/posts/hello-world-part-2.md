@@ -1,6 +1,6 @@
 ---
 date: '2024-12-30T12:39:10-05:00'
-draft: true
+draft: false
 title: 'Hello World, Part 2: Github Pages'
 tags: ['Hugo', 'Github Pages']
 ---
