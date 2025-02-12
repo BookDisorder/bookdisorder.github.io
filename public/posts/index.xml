@@ -11,8 +11,16 @@
     </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Dec 2024 12:39:10 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 19:44:35 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automating Automation</title>
+      <link>http://localhost:1313/posts/automating-automation/</link>
+      <pubDate>Tue, 11 Feb 2025 19:44:35 -0500</pubDate>
+      <guid>http://localhost:1313/posts/automating-automation/</guid>
+      <description>&lt;p&gt;I &lt;em&gt;finally&lt;/em&gt; found my first use case for a large language model chatbot.&lt;/p&gt;
+&lt;p&gt;I mentioned in my first &lt;a href=&#34;http://localhost:1313/posts/hello-world&#34;&gt;Hello World&lt;/a&gt; post that I would use Google&amp;rsquo;s chatbot Gemini to help set up the hugo.yaml config file for this site. But, my success was limited. In that attempt, Gemini was able to help define a few key parameters, but not able to create a .yaml file through plain english prompting alone. I had to do it the old fashioned way. By referencing the Hugo docs.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hello World, Part 2: Github Pages</title>
       <link>http://localhost:1313/posts/hello-world-part-2/</link>
