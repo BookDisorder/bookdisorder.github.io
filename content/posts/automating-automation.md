@@ -2,7 +2,7 @@
 date: '2025-02-11T19:44:35-05:00'
 draft: false
 title: 'Automating Automation'
-tags: gemini, LLMs, AI
+tags: ['Gemini', 'AI']
 ---
 I *finally* found my first real world use case for a large language model chatbot.
 
